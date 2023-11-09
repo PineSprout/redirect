@@ -273,7 +273,7 @@ switch(strtolower($subdomain))
     case 'thereisnothingwecando':
     case 'forglory':
     case 'forhonor':
-        header('Location: https://nettskjema.no/a/378483');
+        header('Location: https://docs.google.com/forms/d/e/1FAIpQLSdnUkCb8c5LOaqLazyHe38aZRNwvBcynotXHs-koAIpPDUujw/viewform?usp=sf_link');
         die;
     case 'ka':
         header('Location: https://linktr.ee/ka.thas');
